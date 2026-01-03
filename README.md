@@ -1,1 +1,1 @@
-# Lab_6-refactoring-
+# Lab_6_refactoring
